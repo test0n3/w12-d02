@@ -1,0 +1,20 @@
+{
+  "name": "w12-d02",
+  "version": "0.0.1",
+  "description": "Mini-assignments week 12 day 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "javascript",
+    "mini-assignments"
+  ],
+  "author": "carlosA",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
