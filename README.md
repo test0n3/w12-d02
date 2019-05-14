@@ -14,3 +14,11 @@ Create your own copy of the following array methods:
    -  Concat
    -  Join
 
+Exercise needs **Node.JS** installed.
+In terminal, execute: 
+
+`npm install`
+
+then run the system with:
+
+`npm start`
