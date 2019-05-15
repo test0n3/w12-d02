@@ -199,8 +199,8 @@ console.log("Multiplication of array [1, 2, 3] elements: ", arrayReduce([1,2,3],
 
 function arrayReduce(array, reducer, initial) {
   let accu = initial || 0;
-  for (let i = 0; i < array.length; i++) {
-    accu = accu + reducer(array[i]);
+  for (let i = 1; i < array.length; i++) {
+    accu = reducer + reducer(array[i]);
   }
 }
 
